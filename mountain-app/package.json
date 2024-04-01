@@ -6,5 +6,9 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "vue": "^3.2.30"
   }
 }

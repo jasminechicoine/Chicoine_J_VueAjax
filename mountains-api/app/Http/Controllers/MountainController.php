@@ -44,7 +44,7 @@ class MountainController extends Controller
             'description' => 'Denali is the highest mountain peak in North America, with a summit elevation of 20,310 feet (6,190 m) above sea level.',
             'image_url' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mount_McKinley_and_Denali_National_Park_1.jpg/640px-Mount_McKinley_and_Denali_National_Park_1.jpg'
         ],
-        // Add more mountains as needed
+       
     ];
 
     public function index()
