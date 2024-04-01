@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  padding: 20px;
+}
+
+.loading-indicator {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.mountain-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.mountain-card {
+  width: 300px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.mountain-card img {
+  width: 100%;
+  height: auto;
+}
+
+.mountain-card h2 {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.mountain-card p {
+  margin-top: 5px;
+  font-size: 16px;
+}
+
+.mountain-detail {
+  padding: 20px;
+}
+
+.mountain-detail img {
+  width: 100%;
+  height: auto;
+}
+
+.mountain-detail p {
+  margin-top: 10px;
+  font-size: 16px;
+}/*# sourceMappingURL=main.css.map */
